@@ -1,14 +1,16 @@
-#☕ Coffee Sales Data Analysis
-##📌 Project Objective
+# ☕ Coffee Sales Data Analysis
+## 📌 Project Objective
 This project analyzes global coffee sales data using an Excel-based interactive dashboard. The objective is to derive insights from sales patterns, customer behavior, and product performance, helping businesses refine strategies for improved customer targeting and product planning.
 
 ##📊 Dataset Used
 The project uses multiple sheets extracted from real-world styled data including:
+
 -<a href = "https://github.com/Poonam-Atakare/Coffee-Sales-Analysis/blob/main/%23Coffee_Sales_Project.xlsx">Sales Data</a>
+
 
 ![Coffe Sales Dashboard](https://github.com/user-attachments/assets/df33e008-ca18-4334-9a4a-710549d1c84d)
 
-##📈 Key Questions Answered (KPIs)
+## 📈 Key Questions Answered (KPIs)
 
 📅 Which months recorded the highest sales?
 
@@ -22,7 +24,7 @@ The project uses multiple sheets extracted from real-world styled data including
 
 💰 Which coffee sizes and categories drive the most revenue?
 
-##⚙️ Process
+## ⚙️ Process
 Cleaned and validated transaction data for consistency.
 
 Ensured proper data types and column mappings across customer, product, and order sheets.
@@ -37,7 +39,7 @@ Slicers to filter by country, coffee type, and year.
 
 Dynamic visual elements like bar and line charts for easier interpretation.
 
-##💡 Key Insights
+## 💡 Key Insights
 The United Kingdom was one of the top contributors to sales.
 
 Customers like Don Flintiff were among the highest spenders.
@@ -48,7 +50,7 @@ Medium and light roasts showed notable popularity.
 
 Loyalty card holders appeared frequently among repeat customers, showing potential for customer retention strategies.
 
-##📊 Dashboard Features
+## 📊 Dashboard Features
 ✅ Total Sales Trend (Monthly and Yearly)
 
 🌍 Country-wise Sales Distribution
@@ -59,9 +61,9 @@ Loyalty card holders appeared frequently among repeat customers, showing potenti
 
 🔍 Slicers for filtering by Country, Coffee Type, and Year
 
-##📌 Final Conclusion
+## 📌 Final Conclusion
 This dashboard enables decision-makers to monitor performance in real time and tailor strategies accordingly. By focusing on top-performing countries, coffee types, and customer segments, coffee businesses can maximize profits and enhance operational efficiency.
 
-##🧭 Dashboard Interaction
+## 🧭 Dashboard Interaction
 Open the Excel file and go to the Dashboard sheet. Use slicers to filter and explore different insights dynamically. Make use of charts and visual KPIs for quick data-driven decisions.
 
